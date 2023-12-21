@@ -9,7 +9,8 @@ La capa de Persistencia se encarga de gestionar la conexión con la base de dato
 ### 3. Presentación
 La capa de Presentación contiene la interfaz de usuario y maneja la interacción con el usuario. En esta aplicación, se proporcionan formularios y controles para gestionar personas y asignaturas.
 ## Ejemplo del Proyecto:
-![image](https://github.com/Atc14/Proyecto3_VisualBasic/assets/132264984/998b2c13-f77c-43dc-8b22-08696e72b245)
+![image](https://github.com/Atc14/Proyecto3_VisualBasic/assets/132264984/73381372-d581-4897-84c3-16841bf413d2)
 ![image](https://github.com/Atc14/Proyecto3_VisualBasic/assets/132264984/2e9e3811-4c38-407f-b80b-006a5627fd16)
-![image](https://github.com/Atc14/Proyecto3_VisualBasic/assets/132264984/ed230ed2-7869-4865-a5b2-7c2f692de3be)
+![image](https://github.com/Atc14/Proyecto3_VisualBasic/assets/132264984/545e163a-efd7-4ad3-a87d-8b11bdf1d5ce)
+
 
